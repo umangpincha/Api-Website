@@ -1,5 +1,5 @@
 # Project 9 Api Website
-#### Umang Pincha
+#### By Umang Pincha
 
 - In this project I have gained lot of experience in HTML & CSS.
 - Learned about positions , flexbox.
